@@ -5,6 +5,8 @@
 Breast cancer is one of the most common cancers worldwide, and early diagnosis plays a crucial role in improving patient survival. This project applies several machine learning algorithms to classify breast tumors as **benign** or **malignant** using the Wisconsin Breast Cancer Dataset.
 
 The project follows a complete machine learning pipeline, including exploratory data analysis (EDA), data preprocessing, feature selection, dimensionality reduction using Principal Component Analysis (PCA), model training, and performance evaluation.
+![Uploading image.png…]()
+
 
 ---
 
