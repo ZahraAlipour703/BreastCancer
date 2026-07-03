@@ -1,5 +1,4 @@
 # Breast Cancer Classification Using Machine Learning
-# Breast Cancer Classification Using Machine Learning
 
 <p align="center">
   <img src="figures/bc.png" alt="Project Banner" width="900">
