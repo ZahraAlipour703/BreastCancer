@@ -1,5 +1,9 @@
 # Breast Cancer Classification Using Machine Learning
+# Breast Cancer Classification Using Machine Learning
 
+<p align="center">
+  <img src="figures/bc.png" alt="Project Banner" width="900">
+</p>
 ## Overview
 
 Breast cancer is one of the most common cancers worldwide, and early diagnosis plays a crucial role in improving patient survival. This project applies several machine learning algorithms to classify breast tumors as **benign** or **malignant** using the Wisconsin Breast Cancer Dataset.
