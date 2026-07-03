@@ -10,6 +10,8 @@ Breast cancer is one of the most common cancers worldwide, and early diagnosis p
 
 The project follows a complete machine learning pipeline, including exploratory data analysis (EDA), data preprocessing, feature selection, dimensionality reduction using Principal Component Analysis (PCA), model training, and performance evaluation.
 
+
+
 ---
 
 ## Objectives
