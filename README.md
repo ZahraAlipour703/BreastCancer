@@ -3,7 +3,6 @@
 <p align="center">
   <img src="figures/bc.png" alt="Project Banner" width="900">
 </p>
-## Project Report
 
 **Academic Project Report:**  
 [Breast Cancer Classification Using Machine Learning – Zenodo](https://doi.org/10.5281/zenodo.24286498)
