@@ -3,6 +3,13 @@
 <p align="center">
   <img src="figures/bc.png" alt="Project Banner" width="900">
 </p>
+## Project Report
+
+**Academic Project Report:**  
+[Breast Cancer Classification Using Machine Learning – Zenodo](https://doi.org/10.5281/zenodo.24286498)
+
+The report is available on Zenodo, including the original Persian
+version and an abridged English translation.
 ## Overview
 
 Breast cancer is one of the most common cancers worldwide, and early diagnosis plays a crucial role in improving patient survival. This project applies several machine learning algorithms to classify breast tumors as **benign** or **malignant** using the Wisconsin Breast Cancer Dataset.
